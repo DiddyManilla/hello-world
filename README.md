@@ -1,2 +1,2 @@
 # To-do list
-A To-do list
+Words are being typed
